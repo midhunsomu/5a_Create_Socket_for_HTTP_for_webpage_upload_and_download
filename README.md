@@ -1,8 +1,12 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
-NAME:MIDHUN S   
-REG NO:212223240087
+### Name: MIDHUN S
+### Register Number: 212223240087
+<br>
+
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
+<br>
+
 ## Algorithm
 
 1.Start the program.
@@ -59,8 +63,7 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 
 ```
-<br><br>
-<br><br>
+
 <br><br>
 <br><br>
 <br><br>
@@ -71,6 +74,6 @@ if __name__ == "__main__":
 
 ## OUTPUT
 ![image](https://github.com/23004513/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/138973069/2ba4a43f-96c1-411a-ac56-0ba75d937789)
-
+<br><br>
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed

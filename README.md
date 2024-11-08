@@ -17,6 +17,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 6.Stop the program
 <BR>
+<br><br>
 ## Program 
 ```
 import socket
@@ -67,10 +68,7 @@ if __name__ == "__main__":
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+
 ## OUTPUT
 ![image](https://github.com/23004513/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/138973069/2ba4a43f-96c1-411a-ac56-0ba75d937789)
 
